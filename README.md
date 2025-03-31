@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN, Next.js, Blockchain tech**
 
-- 📫 How to reach me **adityakhare863@gmail.com**
+- 📫 Reach out to me at **adityakhare863@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
